@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java,HTML,CSS,Java script and Active Directory 
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me nasromax19@hormail.com
-- http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
 <!---
 ITSoft19/ITSoft19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
